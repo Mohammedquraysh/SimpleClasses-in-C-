@@ -1,0 +1,15 @@
+/Users/user/Projects/SimpleClasses/SimpleClasses/bin/Debug/net7.0/SimpleClasses
+/Users/user/Projects/SimpleClasses/SimpleClasses/bin/Debug/net7.0/SimpleClasses.deps.json
+/Users/user/Projects/SimpleClasses/SimpleClasses/bin/Debug/net7.0/SimpleClasses.runtimeconfig.json
+/Users/user/Projects/SimpleClasses/SimpleClasses/bin/Debug/net7.0/SimpleClasses.dll
+/Users/user/Projects/SimpleClasses/SimpleClasses/bin/Debug/net7.0/SimpleClasses.pdb
+/Users/user/Projects/SimpleClasses/SimpleClasses/obj/Debug/net7.0/SimpleClasses.csproj.AssemblyReference.cache
+/Users/user/Projects/SimpleClasses/SimpleClasses/obj/Debug/net7.0/SimpleClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/SimpleClasses/SimpleClasses/obj/Debug/net7.0/SimpleClasses.AssemblyInfoInputs.cache
+/Users/user/Projects/SimpleClasses/SimpleClasses/obj/Debug/net7.0/SimpleClasses.AssemblyInfo.cs
+/Users/user/Projects/SimpleClasses/SimpleClasses/obj/Debug/net7.0/SimpleClasses.csproj.CoreCompileInputs.cache
+/Users/user/Projects/SimpleClasses/SimpleClasses/obj/Debug/net7.0/SimpleClasses.dll
+/Users/user/Projects/SimpleClasses/SimpleClasses/obj/Debug/net7.0/refint/SimpleClasses.dll
+/Users/user/Projects/SimpleClasses/SimpleClasses/obj/Debug/net7.0/SimpleClasses.pdb
+/Users/user/Projects/SimpleClasses/SimpleClasses/obj/Debug/net7.0/SimpleClasses.genruntimeconfig.cache
+/Users/user/Projects/SimpleClasses/SimpleClasses/obj/Debug/net7.0/ref/SimpleClasses.dll
